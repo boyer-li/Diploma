@@ -1,0 +1,2 @@
+# Diploma
+Diploma for BSUIR
