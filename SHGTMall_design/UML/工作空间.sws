@@ -4,10 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{3DD0423C-43AC-43B8-8F7C-76DC154FA3E2}" Loaded="No" Name="SHGTmall_pdm" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="SHGTmall_pdm.pdm"/>
-		<Model Expanded="Yes" ID="{CB44AFE4-21B6-4C2E-A02C-C388F0E1B4B2}" Loaded="No" Name="SHGTmall_oom" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="SHGTmall_oom.oom"/>
-		<Model Expanded="Yes" ID="{2970FDF8-31A3-4D54-95FD-12AD5AC4DCCC}" Loaded="No" Name="SHGTmall_cdm" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="SHGTmall_cdm.cdm"/>
-		<Model Expanded="Yes" ID="{4A48B76F-C264-4E4A-A9F8-9BA0530762E5}" Name="OrderingSystem" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../liyilin/Java/Ordering system_materials/diagram/OrderingSystem.pdm"/>
+		<Model Expanded="Yes" ID="{3DD0423C-43AC-43B8-8F7C-76DC154FA3E2}" Name="SHGTmall_pdm" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="SHGTmall_pdm.pdm"/>
+		<Model Expanded="Yes" ID="{A6C40997-FC40-4BBB-9063-D3458E4D2BE7}" Name="SHGTmall_pdm" Selected="Yes" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="SHGTmall_ldm.ldm"/>
 	</Local>
 	<BrowserModule Name="仓库(&amp;R)"/>
 </Workspace>
