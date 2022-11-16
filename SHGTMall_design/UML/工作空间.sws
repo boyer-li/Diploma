@@ -4,8 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{3DD0423C-43AC-43B8-8F7C-76DC154FA3E2}" Name="SHGTmall_pdm" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="SHGTmall_pdm.pdm"/>
-		<Model Expanded="Yes" ID="{A6C40997-FC40-4BBB-9063-D3458E4D2BE7}" Name="SHGTmall_pdm" Selected="Yes" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="SHGTmall_ldm.ldm"/>
+		<Model Expanded="Yes" ID="{3DD0423C-43AC-43B8-8F7C-76DC154FA3E2}" Loaded="No" Name="SHGTmall_pdm" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="SHGTmall_pdm.pdm"/>
+		<Model Expanded="Yes" ID="{A6C40997-FC40-4BBB-9063-D3458E4D2BE7}" Loaded="No" Name="SHGTmall_pdm" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="SHGTmall_ldm.ldm"/>
+		<Model Expanded="Yes" ID="{3DD0423C-43AC-43B8-8F7C-76DC154FA3E2}" Name="SHGTmall_pdm" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="SHGTmall_pdm.pdm"/>
 	</Local>
 	<BrowserModule Name="仓库(&amp;R)"/>
 </Workspace>
